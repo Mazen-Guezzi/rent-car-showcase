@@ -27,15 +27,13 @@
 
 This repository contains the code corresponding to this project
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+If you prefer visual learning, this is the perfect resource for you.
 
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Developed with Next.js and leveraging its server-side rendering capabilities, the Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
